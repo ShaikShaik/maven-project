@@ -210,7 +210,7 @@
     <connection>scm:git:git@github.com:ShaikShaik/maven-project.git</connection>
     <developerConnection>scm:git:git@github.com:ShaikShaik/maven-project.git</developerConnection>
     <tag>HEAD</tag>
-    <url>http://github.com/ShaikShaik/maven-project</url>
+    <url>https://github.com/ShaikShaik/maven-project</url>
   </scm>
          
       
